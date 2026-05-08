@@ -24,7 +24,7 @@ Soy estudiante de Desarrollo de Software y tengo 18 años. Me gusta aprender por
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,java,php,py,css,html,js,mysql,git,github,vscode,idea,sublime,unity,figma,ps,discord,notion&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,java,php,py,css,html,js,mysql,spring,react,git,github,vscode,idea,sublime,unity,figma,ps,discord,notion&perline=12" />
   </a>
 </p>
 <br>
